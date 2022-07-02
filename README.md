@@ -2,8 +2,7 @@
 Architect and build a solution for managing a company's employees using Node, Inquirer, and MySQL.
 
 
-## Homework Assignment - Week 12
-#### Rutgers Coding Bootcamp / RUT-JER-FSF-PT-06-2020-U-C
+
 
 ## *Table of Contents*
 - [Description](#description)
@@ -21,7 +20,11 @@ Assignment is to build a solution for managing a company's employee database usi
 
 ## *Installation* 
 Clone the Github repo.
-```https://github.com/BwayCarl/Employee-Tracker.git```
+
+## Video
+![Employee-Tracker](https://user-images.githubusercontent.com/101309301/177018993-f4f4e517-8f38-49a8-be7d-12d353f3402e.gif)
+
+
 
 Once in the properly cloned folder, run ```npm install``` to install the following dependencies:
  * Inquirer:  ```npm i inquirer```
