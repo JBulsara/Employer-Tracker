@@ -20,6 +20,7 @@ Assignment is to build a solution for managing a company's employee database usi
 
 ## *Installation* 
 Clone the Github repo.
+git@github.com:JBulsara/Employer-Tracker.git
 
 ## Video
 ![Employee-Tracker](https://user-images.githubusercontent.com/101309301/177018993-f4f4e517-8f38-49a8-be7d-12d353f3402e.gif)
